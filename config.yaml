@@ -1,0 +1,5 @@
+keys: [roundNumber, date]
+eval_vals: [corr, fnc, mmc, tc, correlationWithMetamodel]
+eval_percentiles: [corrPercentile, fncPercentile, mmcPercentile, tcPercentile]
+metrics: [corr, tc, fnc, mmc]
+base_model: "crowdcent_q3zsek"
